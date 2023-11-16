@@ -1,4 +1,4 @@
-# -Study-programmers_python
+# -Study-python
 개인적인 파이썬 코딩 공부를 위한 github
 
 
